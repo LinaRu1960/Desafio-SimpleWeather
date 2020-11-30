@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DesafioSimpleWeather</string>
+    <string name="fecha">Fecha</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="grados">Grados</string>
+
+
+
+
+</resources>
